@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countryss">
+        <item>Amerika</item>
+        <item>Australia</item>
+        <item>Belanda</item>
+        <item>Bulgaria</item>
+        <item>China</item>
+        <item>Chili</item>
+        <item>Denmark</item>
+        <item>Dominika</item>
+        <item>Elsavador</item>
+        <item>Ethiopia</item>
+        <item>Fiji</item>
+        <item>Finlandia</item>
+        <item>Ghana</item>
+        <item>Greenland</item>
+        <item>Hungaria</item>
+        <item>Honduras</item>
+        <item>Indonesia</item>
+        <item>Italia</item>
+        <item>Jepang</item>
+        <item>Jamaika</item>
+        <item>Kenya</item>
+        <item>Kamboja</item>
+        <item>Libya</item>
+        <item>Liberia</item>
+        <item>Malaysia</item>
+        <item>Moldova</item>
+        <item>Nigeria</item>
+        <item>Norwegia</item>
+        <item>Malaysia</item>
+        <item>Oman</item>
+    </string-array>
+
+</resources>
